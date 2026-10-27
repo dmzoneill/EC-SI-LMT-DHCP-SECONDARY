@@ -1,5 +1,9 @@
 # EC-SI-LMT-DHCP-SECONDARY
 
+<p align="center">
+  <img src=".github/logo.png" alt="EC-SI-LMT-DHCP-SECONDARY logo" width="128" />
+</p>
+
 Scripts for the secondary DHCP server of an Intel lab management tool
 (LMT). It is a smaller copy of
 [EC-SI-LMT-DHCP-PRIMARY](https://github.com/dmzoneill/EC-SI-LMT-DHCP-PRIMARY)
